@@ -30,11 +30,8 @@ search                   : true #, false (default)
 search_full_content      : true #, false (default)
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
+google_site_verification : "BNk2b46GPwOvU9fMqwOcm-gUMbCoH3vzRAi6rneKNqU"
+naver_site_verification  : "b88a768b14eac584a7a84aecf194e5949f2ec602"
 
 # Analytics
 analytics:

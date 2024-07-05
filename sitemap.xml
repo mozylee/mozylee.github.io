@@ -19,11 +19,12 @@
 		<lastmod>2024-07-05</lastmod>
 	</url>
 {% for post in site.posts %}
+	{% unless post.published == false %}
 	<url>
 		<loc>{{ site.url }}{{ post.url }}</loc>
 		<priority>0.5</priority>
-		<lastmod>{{ post.date }}</lastmod>
-		<changefreq>daily</changefreq>
+		<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
 	</url>
+	{% endunless %}
 {% endfor %}
 </urlset>
