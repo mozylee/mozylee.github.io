@@ -1,0 +1,24 @@
+{
+  "sitemap.xml": {
+    "Protocol": "https",
+    "DomainName": "mozylee.github.io",
+    "Root": "./_site",
+    "IncludeExt": [
+      ".html"
+    ],
+    "Exclude": [
+      "googlec592dea365d928d6.html"
+    ],
+    "TagsToInclude": [
+      "priority",
+      "lastmod"
+    ],
+    "DefaultChangeFrequency": "daily",
+    "TabCharacters": "\t",
+    "bIncludeWWW": false,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": true,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  }
+}
