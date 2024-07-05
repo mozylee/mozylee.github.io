@@ -35,9 +35,9 @@ naver_site_verification  : "b88a768b14eac584a7a84aecf194e5949f2ec602"
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
+    tracking_id          : "G-RCV0JFX535"
     anonymize_ip         : # true, false (default)
 
 
