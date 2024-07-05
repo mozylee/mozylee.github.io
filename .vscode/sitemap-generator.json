@@ -6,9 +6,7 @@
     "IncludeExt": [
       ".html"
     ],
-    "Exclude": [
-      "googlec592dea365d928d6.html"
-    ],
+    "Exclude": [],
     "TagsToInclude": [
       "priority",
       "lastmod"
