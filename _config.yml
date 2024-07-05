@@ -10,9 +10,7 @@ subtitle                 : "열정이 아닌 꾸준함으로 한 걸음씩"
 name                     : "Mozylee"
 description              : "Not passion. Just Do It."
 url                      : "https://mozylee.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mozylee/mozylee.github.io"
-logo                     : "/assets/images/logo.png"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : true
