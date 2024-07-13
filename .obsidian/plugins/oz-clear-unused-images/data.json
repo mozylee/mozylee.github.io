@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "assets/images,assets/favicons",
+  "ribbonIcon": true,
+  "excludeSubfolders": false
+}
